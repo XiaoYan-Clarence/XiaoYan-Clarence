@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Survival Analysis, Applied Bayesian Methods, Machine Learning for Big Data, and more.
 - 📫 How to reach me: Email me at Clarence.YXA@gmail.com.
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I love Hotpot and Japanese cuisine a lot!
+- ⚡ Fun fact: I love Hotpot and Japanese cuisine very much!
