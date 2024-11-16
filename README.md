@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 - 👯 I’m currently a first-year Master's student at Department of Public Health Sciences, DLSPH, University of Toronto.
 - 📫 How to reach me: email me at Clarence.YXA@gmail.com. My LinkedIn page is https://www.linkedin.com/in/xiaoyan1596/.
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I love Hotpot and Japanese cuisine very much!
