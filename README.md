@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently developing an R package on Bayesian Marginal Structural Models!
 - 🌱 I’m currently learning Survival Analysis, Applied Bayesian Methods, Machine Learning for Big Data, and more.
-- 👯 I’m currently a first-year Master's student at Department of Public Health Sciences, DLSPH, University of Toronto.
-- 📫 How to reach me: email me at Clarence.YXA@gmail.com. My LinkedIn page is https://www.linkedin.com/in/xiaoyan1596/.
+- 👯 I’ve recently completed my Master's study at Department of Public Health Sciences, DLSPH, University of Toronto.
+- 📫 How to reach me: email me at Clarence.YXA@gmail.com. My LinkedIn page is www.linkedin.com/in/xiaoyanclarence.
 - 😄 Pronouns: he/him/his
